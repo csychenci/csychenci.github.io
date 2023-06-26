@@ -1,0 +1,1 @@
+.drag__container{width:100%;height:300px;position:relative;border:1px solid #87ceeb;box-sizing:border-box}.drag__container .drag__rect{width:30px;height:30px;background-color:#bc8f8f;position:absolute;top:0;left:0;cursor:pointer}
